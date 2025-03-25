@@ -1,3 +1,25 @@
+## My Work On This Project
+
+This project was completed as part of my Artificial Intelligence course. The instructions were provided by the course instructor. Modifications were made to the start state, changes are outlined in the `shakey.clp` file.
+
+## How To Run
+
+This project requires CLIPS.
+
+In CLIPS, run:
+```
+(load "shakey.clp")
+(reset)
+(run)
+```
+
+To view a list of Shakey's possible actions at a given state, run:
+```
+(run 1)
+(agenda)
+```
+--- 
+
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/SVM8l8t6)
 # AI-shakey-world
 ## Planning in Shakey's World
