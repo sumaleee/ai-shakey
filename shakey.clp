@@ -1,8 +1,7 @@
-﻿; i changed the rules because they didn't make sense
 ; 1. shakey can move in/out of dark rooms, but he cannot move boxes into or out of dark rooms
 ; 2. light switches have been moved to the hallway since shakey can't move a box to turn them on in a dark room
 ; 3. lights are on in the goal state, since shakey can't turn them off in the hallway with no boxes
-; note: even though there's no reason to use it in this scenario, i implemented a working turn-off-lights rule
+; note: even though there is no use for it in this scenario, there is a working turn-off-lights rule
 
 ; templates
 
