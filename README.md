@@ -1,6 +1,6 @@
 ## My Work On This Project
 
-This project was completed as part of my Artificial Intelligence course. The instructions were provided by the course instructor. Modifications were made to the start state, changes are outlined in the `shakey.clp` file.
+This project was completed as part of an Artificial Intelligence course. The instructions were provided by the course instructor. Modifications were made to the start state, changes are outlined in the `shakey.clp` file.
 
 ## How To Run
 
